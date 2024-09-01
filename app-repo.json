@@ -43,11 +43,11 @@
       {
         "version": "Nightly",
         "date": "2024-09-01T00:00:00Z",
-        "size": 999999,
+        "size": 0,
         "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa"
       }
     ],
-    "size": 999999,
+    "size": 0,
     "version": "Nightly",
     "versionDate": "2024-09-01T00:00:00Z",
     "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
