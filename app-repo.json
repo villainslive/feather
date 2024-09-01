@@ -32,31 +32,25 @@
       "appPermissions": {}
     },
   {
-    "name": "Feather",
-    "bundleIdentifier": "kh.crysalis.feather",
-    "developerName": "Samara",
-    "iconURL": "https://github.com/khcrysalis/Feather/blob/main/iOS/Icons/Main/Mac%403x.png?raw=true",
-    "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
-    "subtitle": "On-device signing application",
+    "name": "RetroArch",
+    "bundleIdentifier": "com.retroarch",
+    "developerName": "RetroArch",
+    "iconURL": "https://raw.githubusercontent.com/libretro/RetroArch/3c93054f5b35e397b0a2e342e18e5c1856cfdf5d/media/ico_src/icon.svg",
+    "localizedDescription": "Emu Frontend",
+    "subtitle": "Play Retro Games on iOS",
     "tintColor": "848ef9",
     "versions": [
       {
-        "version": "v1.0.1",
-        "date": "2024-08-30T18:34:10Z",
-        "size": 12375230,
-        "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.1/feather_v1.0.1.ipa"
-      },
-      {
-        "version": "v1.0",
-        "date": "2024-08-24T18:34:10Z",
-        "size": 12375230,
-        "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0/feather_v1.0.ipa"
+        "version": "Nightly",
+        "date": "2024-09-01T00:00:00Z",
+        "size": 999999,
+        "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa"
       }
     ],
-    "size": 12375230,
-    "version": "v1.0.1",
-    "versionDate": "2024-08-30T18:34:10Z",
-    "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.0.1/feather_v1.0.1.ipa",
+    "size": 999999,
+    "version": "Nightly",
+    "versionDate": "2024-09-01T00:00:00Z",
+    "downloadURL": "https://buildbot.libretro.com/nightly/apple/ios-arm64/RetroArch.ipa",
     "appPermissions": {}
   }
 ],
